@@ -1,0 +1,3 @@
+Name: Konrad
+Age: 20
+Favorite Color: Yellow 
